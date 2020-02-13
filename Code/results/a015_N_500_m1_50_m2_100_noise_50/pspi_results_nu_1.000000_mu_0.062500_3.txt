@@ -1,0 +1,58 @@
+Iteration:3 Matching Error(cont):19.968847   Matching Error(disc):72.746125  ObjFunc:11359.963105  P-diff:1.000275   Z-diff:52.364110
+Iteration:6 Matching Error(cont):19.458606   Matching Error(disc):71.610169  ObjFunc:11225.781449  P-diff:0.032286   Z-diff:0.022126
+Iteration:9 Matching Error(cont):18.625642   Matching Error(disc):69.311021  ObjFunc:10975.458464  P-diff:0.053977   Z-diff:0.024801
+Iteration:12 Matching Error(cont):17.893520   Matching Error(disc):68.702378  ObjFunc:10877.694353  P-diff:0.069023   Z-diff:0.023899
+Iteration:15 Matching Error(cont):17.314734   Matching Error(disc):68.876508  ObjFunc:10894.818552  P-diff:0.074934   Z-diff:0.023563
+Iteration:18 Matching Error(cont):16.819026   Matching Error(disc):69.021209  ObjFunc:10905.200171  P-diff:0.084087   Z-diff:0.023734
+Iteration:21 Matching Error(cont):16.452133   Matching Error(disc):68.847349  ObjFunc:10907.913595  P-diff:0.086043   Z-diff:0.024756
+Iteration:24 Matching Error(cont):16.212664   Matching Error(disc):68.702032  ObjFunc:10902.008511  P-diff:0.080693   Z-diff:0.026408
+Iteration:27 Matching Error(cont):16.023803   Matching Error(disc):67.999782  ObjFunc:10840.079222  P-diff:0.076097   Z-diff:0.028681
+Iteration:30 Matching Error(cont):15.838307   Matching Error(disc):68.497870  ObjFunc:10887.219767  P-diff:0.072571   Z-diff:0.031393
+Iteration:33 Matching Error(cont):15.637725   Matching Error(disc):68.263821  ObjFunc:10863.560970  P-diff:0.069229   Z-diff:0.034375
+Iteration:36 Matching Error(cont):15.415730   Matching Error(disc):68.934328  ObjFunc:10933.589877  P-diff:0.064795   Z-diff:0.037595
+Iteration:39 Matching Error(cont):15.176409   Matching Error(disc):69.108182  ObjFunc:10956.865451  P-diff:0.061511   Z-diff:0.039800
+Iteration:42 Matching Error(cont):14.928953   Matching Error(disc):68.992544  ObjFunc:10942.887973  P-diff:0.059346   Z-diff:0.042475
+Iteration:45 Matching Error(cont):14.684086   Matching Error(disc):68.731618  ObjFunc:10914.806140  P-diff:0.057591   Z-diff:0.045705
+Iteration:48 Matching Error(cont):14.447932   Matching Error(disc):68.993135  ObjFunc:10950.771560  P-diff:0.055663   Z-diff:0.049487
+Iteration:51 Matching Error(cont):14.225326   Matching Error(disc):69.167591  ObjFunc:10960.903589  P-diff:0.053817   Z-diff:0.053921
+Iteration:54 Matching Error(cont):14.017454   Matching Error(disc):69.052033  ObjFunc:10944.047727  P-diff:0.052192   Z-diff:0.058739
+Iteration:57 Matching Error(cont):13.820995   Matching Error(disc):68.995284  ObjFunc:10945.511556  P-diff:0.050796   Z-diff:0.063852
+Iteration:60 Matching Error(cont):13.634356   Matching Error(disc):68.793013  ObjFunc:10941.922712  P-diff:0.049571   Z-diff:0.069409
+Iteration:63 Matching Error(cont):13.458013   Matching Error(disc):68.563477  ObjFunc:10926.342225  P-diff:0.048486   Z-diff:0.074674
+Iteration:66 Matching Error(cont):13.294700   Matching Error(disc):68.185276  ObjFunc:10897.479133  P-diff:0.047406   Z-diff:0.080316
+Iteration:69 Matching Error(cont):13.145755   Matching Error(disc):68.421960  ObjFunc:10926.204541  P-diff:0.046531   Z-diff:0.086614
+Iteration:72 Matching Error(cont):13.009382   Matching Error(disc):68.541913  ObjFunc:10941.384064  P-diff:0.045865   Z-diff:0.093709
+Iteration:75 Matching Error(cont):12.883492   Matching Error(disc):68.602204  ObjFunc:10959.755714  P-diff:0.045326   Z-diff:0.101492
+Iteration:78 Matching Error(cont):12.768649   Matching Error(disc):68.431420  ObjFunc:10942.577922  P-diff:0.044802   Z-diff:0.110480
+Iteration:81 Matching Error(cont):12.666864   Matching Error(disc):68.374408  ObjFunc:10934.544923  P-diff:0.044063   Z-diff:0.117661
+Iteration:84 Matching Error(cont):12.576297   Matching Error(disc):68.231316  ObjFunc:10930.138007  P-diff:0.043383   Z-diff:0.118720
+Iteration:87 Matching Error(cont):12.494914   Matching Error(disc):68.642994  ObjFunc:10974.373971  P-diff:0.042721   Z-diff:0.119734
+Iteration:90 Matching Error(cont):12.420685   Matching Error(disc):68.472414  ObjFunc:10954.296001  P-diff:0.042179   Z-diff:0.120788
+Iteration:93 Matching Error(cont):12.353769   Matching Error(disc):68.648859  ObjFunc:10989.782829  P-diff:0.041615   Z-diff:0.121839
+Iteration:96 Matching Error(cont):12.293253   Matching Error(disc):68.885665  ObjFunc:11015.550483  P-diff:0.040985   Z-diff:0.122860
+Iteration:99 Matching Error(cont):12.238346   Matching Error(disc):68.975801  ObjFunc:11030.232671  P-diff:0.040294   Z-diff:0.123847
+Iteration:102 Matching Error(cont):12.188401   Matching Error(disc):68.918879  ObjFunc:11040.790335  P-diff:0.039546   Z-diff:0.124821
+Iteration:105 Matching Error(cont):12.143450   Matching Error(disc):69.560172  ObjFunc:11099.852568  P-diff:0.038782   Z-diff:0.125812
+Iteration:108 Matching Error(cont):12.101506   Matching Error(disc):69.360942  ObjFunc:11099.704630  P-diff:0.038115   Z-diff:0.126823
+Iteration:111 Matching Error(cont):12.061927   Matching Error(disc):69.362723  ObjFunc:11112.534849  P-diff:0.037550   Z-diff:0.127863
+Iteration:114 Matching Error(cont):12.024311   Matching Error(disc):69.536580  ObjFunc:11134.006074  P-diff:0.037035   Z-diff:0.128934
+Iteration:117 Matching Error(cont):11.988901   Matching Error(disc):69.433597  ObjFunc:11130.590805  P-diff:0.036555   Z-diff:0.129998
+Iteration:120 Matching Error(cont):11.955722   Matching Error(disc):69.190922  ObjFunc:11111.857505  P-diff:0.036082   Z-diff:0.131077
+Iteration:123 Matching Error(cont):11.924894   Matching Error(disc):69.283571  ObjFunc:11134.148551  P-diff:0.035611   Z-diff:0.132211
+Iteration:126 Matching Error(cont):11.896354   Matching Error(disc):69.197870  ObjFunc:11137.292216  P-diff:0.035138   Z-diff:0.133429
+Iteration:129 Matching Error(cont):11.869773   Matching Error(disc):68.997978  ObjFunc:11122.684820  P-diff:0.034632   Z-diff:0.134696
+Iteration:132 Matching Error(cont):11.844928   Matching Error(disc):68.739447  ObjFunc:11100.112412  P-diff:0.034109   Z-diff:0.136003
+Iteration:135 Matching Error(cont):11.821671   Matching Error(disc):68.589393  ObjFunc:11106.350365  P-diff:0.033590   Z-diff:0.137345
+Iteration:138 Matching Error(cont):11.799852   Matching Error(disc):68.623657  ObjFunc:11119.605948  P-diff:0.033066   Z-diff:0.138685
+Iteration:141 Matching Error(cont):11.779360   Matching Error(disc):68.363231  ObjFunc:11095.298910  P-diff:0.032534   Z-diff:0.139987
+Iteration:144 Matching Error(cont):11.760213   Matching Error(disc):68.393281  ObjFunc:11114.504489  P-diff:0.032000   Z-diff:0.141257
+Iteration:147 Matching Error(cont):11.742406   Matching Error(disc):68.667062  ObjFunc:11143.580003  P-diff:0.031457   Z-diff:0.142512
+Iteration:150 Matching Error(cont):11.726153   Matching Error(disc):68.763968  ObjFunc:11163.097410  P-diff:0.030951   Z-diff:0.143797
+Num of non-zero entries in Z: 2742
+Matching Error: 68.763968
+Z RMSE Error: 0.016229
+Fmax Inferred: 2.201887e-01 for Opt k: 2
+Fmax Groundtruth: 2.188180e-01 for True k: 2
+No of Connected Components in Infered Z with size 10 is : 2
+No of Connected Components in Original Z with size 10 is : 2
+Connected component with size 10. Precision : 0.999212 Recall: 0.941351 
